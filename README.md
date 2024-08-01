@@ -5,7 +5,6 @@ _Name : Abhishek_ <br/>
 _Slack : [Link to Slack ID](https://rhccgsoc15.slack.com/team/U0646QP9HDK)_ <br/>
 _GitHub Username : [its-me-abhishek](https://github.com/its-me-abhishek)_ <br/>
 _Mentor: [Mabud Alam](https://github.com/Pavel401)_ <br/>
-_GitHub Repository of the project: https://github.com/its-me-abhishek/ccsync_
 
 ## My project work
 
@@ -17,6 +16,50 @@ I learnt alot during this process about Golang, React, Docker, Taskwarrior, Flut
 
 ## Work Track
 
-|     Name of the Task    |           Description         |      Link to work          |
-|-------------------------|-------------------------------|----------------------------|
-|To-Do|<ul><li>To-Do</li></ul>|[Link to work]
+1. Logic / Backend Development
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+
+2. UI / Frontend Development
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+
+
+3. Dockerizing the web app
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+
+4. Integrating with Taskwarrior Flutter App
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+
+## Link to work
+- Link to CCSync repository
+- Link to CCSync Docs repository
+- Link to all CCSync pull requests
+- Link to all CCSync Docs pull requests
+
+## Weekly Reports
+These are the weekly reports that i had submitted to CCSync during GSoC period:
+- Week 1
+- Week 2
+- Week 3
+- Week 4
+- Week 5
+- Week 6
+- Week 7
+- Week 8
+- Week 9
+- Week 10
+- Week 11
+- Week 12
+
+
