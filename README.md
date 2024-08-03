@@ -49,15 +49,15 @@ I learnt alot during this process about Golang, React, Docker, Taskwarrior, Flut
 
 ## Weekly Reports
 These are the weekly reports that i had submitted to CCSync during GSoC period:
-- Week 1
-- Week 2
-- Week 3
-- Week 4
-- Week 5
-- Week 6
-- Week 7
-- Week 8
-- Week 9
+- [Week 1](https://abhishek31.medium.com/gsoc-week-1-at-ccextractor-abb9f13a4d94)
+- [Week 2](https://abhishek31.medium.com/gsoc-week-2-at-ccextractor-b8538b394ef4)
+- [Week 3](https://abhishek31.medium.com/gsoc-week-3-at-ccextractor-e15393457db9)
+- [Week 4](https://abhishek31.medium.com/gsoc-week-4-at-ccextractor-429fc4c3d164)
+- [Week 5](https://abhishek31.medium.com/gsoc-week-5-at-ccextractor-125b2607a0d7)
+- [Week 6](https://abhishek31.medium.com/gsoc-week-6-at-ccextractor-75936fe98d98)
+- [Week 7](https://abhishek31.medium.com/gsoc-week-7-at-ccextractor-12fc1036c081)
+- [Week 8](https://abhishek31.medium.com/gsoc-week-8-at-ccextractor-41c57a724e88)
+- [Week 9](https://abhishek31.medium.com/gsoc-week-9-at-ccextractor-f1060cdf5f71)
 - Week 10
 - Week 11
 - Week 12
