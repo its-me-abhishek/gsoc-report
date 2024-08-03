@@ -42,10 +42,10 @@ I learnt alot during this process about Golang, React, Docker, Taskwarrior, Flut
 | To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
 
 ## Link to work
-- Link to CCSync repository
-- Link to CCSync Docs repository
-- Link to all CCSync pull requests
-- Link to all CCSync Docs pull requests
+- [Link to CCSync repository](https://github.com/its-me-abhishek/ccsync)
+- [Link to CCSync Docs repository](https://github.com/its-me-abhishek/ccsync-docs)
+- [Link to all CCSync pull requests](https://github.com/its-me-abhishek/ccsync/pulls?q=is%3Apr+is%3Aclosed)
+- [Link to all CCSync Docs commits](https://github.com/its-me-abhishek/ccsync-docs/commits/main/)
 
 ## Weekly Reports
 These are the weekly reports that i had submitted to CCSync during GSoC period:
