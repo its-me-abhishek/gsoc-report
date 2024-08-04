@@ -14,6 +14,14 @@ My work revolved around creating series of commands on the backend that can be a
 
 I learnt alot during this process about Golang, React, Docker, Taskwarrior, Flutter, etc.
 
+The following is a demo of working of 
+- CCSync website:
+// TO DO
+
+- CCSync with Taskwarrior Flutter App:
+// TO DO
+
+
 ## Work Track
 
 1. Logic / Backend Development
