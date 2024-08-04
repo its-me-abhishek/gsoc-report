@@ -18,9 +18,12 @@ I learnt alot during this process about Golang, React, Docker, Taskwarrior, Flut
 
 1. Logic / Backend Development
 
+_Objective_: To develop the core backend functionality of CCSync, enabling bidirectional synchronization between Taskwarrior clients and Taskchampion Sync Server.
+
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+| Taskwarrior Integration | <ul><li>Develop functions to perform various operations on tasks from Taskwarrior.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/tree/main/backend) |
+| Authentication and Security | <ul><li>Implement OAuth Google Sign in so as to generate secrets for users, and for segregation of tasks on the Firestore Database depending on the email of the user</li> <li>Used CORS for restricting unauthorised access to the user's data</li></ul>| [Link to work](https://github.com/its-me-abhishek/ccsync/tree/main/backend) |
 
 2. UI / Frontend Development
 
