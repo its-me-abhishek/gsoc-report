@@ -69,7 +69,7 @@ These are the weekly reports that i had submitted to CCSync during GSoC period:
 - [Week 7](https://abhishek31.medium.com/gsoc-week-7-at-ccextractor-12fc1036c081)
 - [Week 8](https://abhishek31.medium.com/gsoc-week-8-at-ccextractor-41c57a724e88)
 - [Week 9](https://abhishek31.medium.com/gsoc-week-9-at-ccextractor-f1060cdf5f71)
-- Week 10
+- [Week 10](https://abhishek31.medium.com/gsoc-week-10-at-ccextractor-9ba4840c434c)
 - Week 11
 - Week 12
 
