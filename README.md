@@ -35,9 +35,15 @@ _Objective_: To develop the core backend functionality of CCSync, enabling bidir
 
 2. UI / Frontend Development
 
+_Objective_: To develop the core frontend functionality of CCSync, using which, the users can sign up/sign in and get their credentials. The users can follow the setup guide to easily setup sync on their Taskwarrior 3.0 clients.
+
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+| User Dashboard	 | <ul><li>Develop a dashboard for users to see their tasks, statistics, and sync status.</li></ul> | [Link to work] |
+| Task List Display | <ul><li>Develop a user interface to display a list of tasks fetched from Taskwarrior.</li></ul> | [Link to work] |
+| Task Detail View | <ul><li>Implement a detailed view for individual tasks, including all task attributes and actions.</li></ul> | [Link to work] |
+| Task Creation and Editing		 | <ul><li>Create forms for adding new tasks and editing existing ones, with validation and error handling.</li></ul> | [Link to work] |
+| Setup Guide	 | <ul><li>Create an easy guide using which the users can easily setup sync for all their Taskwarrior 3.0 clients (or  higher).</li></ul> | [Link to work] |
 
 
 3. Dockerizing the web app
