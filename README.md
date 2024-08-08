@@ -20,6 +20,12 @@ The following is a demo of working of
   
 https://github.com/user-attachments/assets/b5359524-67ba-4a44-bd58-993cf3de63b4
 
+  - _Home Page Screenshots:_
+  - _Task view and details:_
+  - _Adding/Modifying a Task:_
+  - _Syncing Tasks and Deleting all tasks on Firestore:_
+  - _Task Filters:_
+
 
 - CCSync with Taskwarrior Flutter App:
 // TO DO
