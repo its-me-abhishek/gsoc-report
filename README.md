@@ -16,10 +16,9 @@ I learnt alot during this process about Golang, React, Docker, Taskwarrior, Flut
 
 The following is a demo of working of 
 - **CCSync website:**
-  - _Landing Page:_
-  
-https://github.com/user-attachments/assets/b5359524-67ba-4a44-bd58-993cf3de63b4
+  - _Landing Page:_ 
 
+    https://github.com/user-attachments/assets/b5359524-67ba-4a44-bd58-993cf3de63b4
   - _Home Page Screenshots:_
   - _Task view and details:_
   - _Adding/Modifying a Task:_
@@ -27,7 +26,7 @@ https://github.com/user-attachments/assets/b5359524-67ba-4a44-bd58-993cf3de63b4
   - _Task Filters:_
 
 
-- CCSync with Taskwarrior Flutter App:
+- **CCSync with Taskwarrior Flutter App**:
 // TO DO
 
 
