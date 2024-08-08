@@ -20,6 +20,23 @@ The following is a demo of working of
 
     https://github.com/user-attachments/assets/b5359524-67ba-4a44-bd58-993cf3de63b4
   - _Home Page Screenshots:_
+      - _Dashboard_
+        ![hp1](https://github.com/user-attachments/assets/25e56c6d-ee4b-483f-9abf-4b9d8aa92788)
+
+      - _Task View_
+        ![hp2](https://github.com/user-attachments/assets/7d76fd14-775b-4d78-9015-e067e028505f)
+        
+      - _Setup Guide_
+        ![hp3](https://github.com/user-attachments/assets/d6368d47-0593-42bd-87c4-6b7e9dc1a6cf)
+        ![hp4](https://github.com/user-attachments/assets/9793779b-aff5-4ce1-bd7e-f88e0083001a)
+
+      - _FAQ_
+         ![hp5](https://github.com/user-attachments/assets/736cec71-d034-40a3-9e2e-94f8394d3ca9)
+
+        
+      - _Footer_
+        ![hp6](https://github.com/user-attachments/assets/ea1670b3-0d59-4768-8d56-9b948d841386)
+
   - _Task view and details:_
   - _Adding/Modifying a Task:_
   - _Syncing Tasks and Deleting all tasks on Firestore:_
