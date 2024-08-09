@@ -37,15 +37,18 @@ The following is a demo of working of
       - _Footer_
         ![hp6](https://github.com/user-attachments/assets/ea1670b3-0d59-4768-8d56-9b948d841386)
 
-  - _Task view and details:_
+      - _Task view and details:_
+        
+        https://github.com/user-attachments/assets/80f29cd2-54a5-44b6-8b83-fc1b75ece654
+
+      - _Adding a Task:_
+        
+        https://github.com/user-attachments/assets/2e418753-6f38-407a-b9ef-a28e89942cba
 
 
-
-https://github.com/user-attachments/assets/80f29cd2-54a5-44b6-8b83-fc1b75ece654
-
-
-  - _Adding/Modifying a Task:_
-  - _Syncing Tasks and Deleting all tasks on Firestore:_
+  
+  - _Modifying a Task:_
+  - _Deleting all tasks on Firestore:_
   - _Task Filters:_
 
 
