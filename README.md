@@ -38,6 +38,12 @@ The following is a demo of working of
         ![hp6](https://github.com/user-attachments/assets/ea1670b3-0d59-4768-8d56-9b948d841386)
 
   - _Task view and details:_
+
+
+
+https://github.com/user-attachments/assets/80f29cd2-54a5-44b6-8b83-fc1b75ece654
+
+
   - _Adding/Modifying a Task:_
   - _Syncing Tasks and Deleting all tasks on Firestore:_
   - _Task Filters:_
