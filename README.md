@@ -45,16 +45,14 @@ The following is a demo of working of
         
         https://github.com/user-attachments/assets/2e418753-6f38-407a-b9ef-a28e89942cba
 
+      - _Deleting all tasks on Firestore:_
+ 
+        ![delete-firestore](https://github.com/user-attachments/assets/9c3a64cb-b017-4702-8063-7987c37bebcc)
 
-  
-  - _Modifying a Task:_
-  - _Deleting all tasks on Firestore:_
-  - _Task Filters:_
+      
+      - _Task Filters:_
 
-
-- **CCSync with Taskwarrior Flutter App**:
-// TO DO
-
+      https://github.com/user-attachments/assets/c99301bc-1afa-4f2f-b80f-7c7e940695be
 
 ## Work Track
 
@@ -73,24 +71,24 @@ _Objective_: To develop the core frontend functionality of CCSync, using which, 
 
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| User Dashboard	 | <ul><li>Develop a dashboard for users to see their tasks, statistics, and sync status.</li></ul> | [Link to work] |
-| Task List Display | <ul><li>Develop a user interface to display a list of tasks fetched from Taskwarrior.</li></ul> | [Link to work] |
+| User Dashboard	 | <ul><li>Develop a dashboard for users to see their tasks, statistics, and sync status.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/tree/main/frontend/src/components/HomeComponents/Hero) |
+| Task List Display | <ul><li>Develop a user interface to display a list of tasks fetched from Taskwarrior.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/12) |
 | Task Detail View | <ul><li>Implement a detailed view for individual tasks, including all task attributes and actions.</li></ul> | [Link to work] |
-| Task Creation and Editing		 | <ul><li>Create forms for adding new tasks and editing existing ones, with validation and error handling.</li></ul> | [Link to work] |
-| Setup Guide	 | <ul><li>Create an easy guide using which the users can easily setup sync for all their Taskwarrior 3.0 clients (or  higher).</li></ul> | [Link to work] |
+| Task Creation and Editing		 | <ul><li>Create forms for adding new tasks and editing existing ones, with validation and error handling.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/26)|
+| Setup Guide	 | <ul><li>Create an easy guide using which the users can easily setup sync for all their Taskwarrior 3.0 clients (or  higher).</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/1) [Link to work](https://github.com/its-me-abhishek/ccsync/pull/2) |
 
 
 3. Dockerizing the web app
 
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+| Dockerize for easy deployment | <ul><li>Dockerize the backend</li></ul> <ul><li>Dockerize the frontend</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/11) |
 
 4. Integrating with Taskwarrior Flutter App
 
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| To-Do | <ul><li>To-Do</li></ul> | [Link to work] |
+| Integrate CCSync with Taskwarrior Flutter App | <ul><li>Add views to add/update tasks in the Taskwarrior flutter app using CCSync</li></ul> | [Link to work](https://github.com/CCExtractor/taskwarrior-flutter/pull/357) |
 
 ## Link to work
 - [Link to CCSync repository](https://github.com/its-me-abhishek/ccsync)
@@ -110,7 +108,6 @@ These are the weekly reports that i had submitted to CCSync during GSoC period:
 - [Week 8](https://abhishek31.medium.com/gsoc-week-8-at-ccextractor-41c57a724e88)
 - [Week 9](https://abhishek31.medium.com/gsoc-week-9-at-ccextractor-f1060cdf5f71)
 - [Week 10](https://abhishek31.medium.com/gsoc-week-10-at-ccextractor-9ba4840c434c)
-- Week 11
-- Week 12
+- Week 11 and Week 12
 
 
