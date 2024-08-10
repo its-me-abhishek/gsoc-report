@@ -90,6 +90,12 @@ _Objective_: To develop the core frontend functionality of CCSync, using which, 
 |------------------|-------------|--------------|
 | Integrate CCSync with Taskwarrior Flutter App | <ul><li>Add views to add/update tasks in the Taskwarrior flutter app using CCSync</li></ul> | [Link to work](https://github.com/CCExtractor/taskwarrior-flutter/pull/357) |
 
+5. Documentation for CCSync
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Create documentation for CCSync | <ul><li>Built documentation for CCSync using MkDocs</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync-docs) </br> [Link to work](https://its-me-abhishek.github.io/ccsync-docs/) |
+
 ## Link to work
 - [Link to CCSync repository](https://github.com/its-me-abhishek/ccsync)
 - [Link to CCSync Docs repository](https://github.com/its-me-abhishek/ccsync-docs)
