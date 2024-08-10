@@ -75,7 +75,7 @@ _Objective_: To develop the core frontend functionality of CCSync, using which, 
 | Task List Display | <ul><li>Develop a user interface to display a list of tasks fetched from Taskwarrior.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/12) |
 | Task Detail View | <ul><li>Implement a detailed view for individual tasks, including all task attributes and actions.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/commit/147e75fb2467d7480f571cd8e23625128acd2047) |
 | Task Creation and Editing		 | <ul><li>Create forms for adding new tasks and editing existing ones, with validation and error handling.</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/26)|
-| Setup Guide	 | <ul><li>Create an easy guide using which the users can easily setup sync for all their Taskwarrior 3.0 clients (or  higher).</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/1) [Link to work](https://github.com/its-me-abhishek/ccsync/pull/2) |
+| Setup Guide	 | <ul><li>Create an easy guide using which the users can easily setup sync for all their Taskwarrior 3.0 clients (or  higher).</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync/pull/1) </br> [Link to work](https://github.com/its-me-abhishek/ccsync/pull/2) |
 
 
 3. Dockerizing the web app
