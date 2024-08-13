@@ -122,4 +122,5 @@ These are the weekly reports that i had submitted to CCSync during GSoC period:
 - [Week 10](https://abhishek31.medium.com/gsoc-week-10-at-ccextractor-9ba4840c434c)
 - Week 11 and Week 12
 
-
+## Personal Note
+With GSoC'24 coming to an end, I'd like to thank my mentor Mabud Alam for guiding me all along. I really enjoyed working on the project and I will be continuing my contribution to CCExtractor and open source. 🚀
