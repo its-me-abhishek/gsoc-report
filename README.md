@@ -10,7 +10,8 @@ _Mentor: [Mabud Alam](https://github.com/Pavel401)_ <br/>
 - [My project work](#my-project-work)
 - [Work Track](#work-track)
 - [Link to work](#link-to-work)
-- [Weekly Reports](#weekly-reports) 
+- [Weekly Reports](#weekly-reports)
+- [Personal Note](#personal-note) 
 
 ## My project work
 
