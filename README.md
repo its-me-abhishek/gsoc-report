@@ -6,6 +6,12 @@ _Slack : [Link to Slack ID](https://rhccgsoc15.slack.com/team/U0646QP9HDK)_ <br/
 _GitHub Username : [its-me-abhishek](https://github.com/its-me-abhishek)_ <br/>
 _Mentor: [Mabud Alam](https://github.com/Pavel401)_ <br/>
 
+## Table of contents
+- [My project work](#my-project-work)
+- [Work Track](#work-track)
+- [Link to work](#link-to-work)
+- [Weekly Reports](#weekly-reports) 
+
 ## My project work
 
 During the summer period, I worked on the development of CCSync - a web UI + API that helps in retreival and syncing of tasks from a [`taskchampion-sync-server`](https://github.com/GothenburgBitFactory/taskchampion-sync-server) container. The users can thus create, read,
