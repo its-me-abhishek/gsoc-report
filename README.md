@@ -123,5 +123,10 @@ These are the weekly reports that i had submitted to CCSync during GSoC period:
 - [Week 10](https://abhishek31.medium.com/gsoc-week-10-at-ccextractor-9ba4840c434c)
 - Week 11 and Week 12
 
+## Future Work
+- Although, I have added tests for almost each frontend component and backend functions, still much more extensive testing can be done to test the different possible scenarios or components.
+- Integration of CCSync for syncing/adding Taskwarrior tasks with different services like Slack, Google Calendar, etc.
+
+
 ## Personal Note
 With GSoC'24 coming to an end, I'd like to thank my mentor Mabud Alam for guiding me all along. I really enjoyed working on the project and I will be continuing my contribution to [CCExtractor](https://github.com/CCExtractor) and open source. 🚀
