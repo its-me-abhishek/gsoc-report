@@ -121,7 +121,7 @@ These are the weekly reports that i had submitted to CCSync during GSoC period:
 - [Week 8](https://abhishek31.medium.com/gsoc-week-8-at-ccextractor-41c57a724e88)
 - [Week 9](https://abhishek31.medium.com/gsoc-week-9-at-ccextractor-f1060cdf5f71)
 - [Week 10](https://abhishek31.medium.com/gsoc-week-10-at-ccextractor-9ba4840c434c)
-- Week 11 and Week 12
+- [Week 11 and Week 12](https://abhishek31.medium.com/gsoc-week-11-and-week-12-at-ccextractor-7746e4727135)
 
 ## Future Work
 - Although, I have added tests for almost each frontend component and backend functions, still much more extensive testing can be done to test the different possible scenarios or components.
